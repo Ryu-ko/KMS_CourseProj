@@ -1,0 +1,129 @@
+body{
+
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("./img/dikijZapad.jpg");
+    background-size: 100%;
+    background-attachment: fixed; 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.allPageInf {
+    width: 70%;
+    margin: 0% 0% 6% 0%;
+    padding: 1% 5% 1% 5%;
+    font-size: 18px;
+    background-color: rgba(242, 208, 114, 0.941);
+  }
+  
+.allPageInf .images{
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 25%;
+}
+.imgnabordiv{
+  display: flex;
+
+}
+
+.imagBot{
+  width: 60%;
+  margin-top: 1%;
+  margin-bottom: 0%;
+  margin-left: 25%;
+}
+
+.imgnabordiv .imgNabor{
+  width: 32%;
+}
+figcaption{
+  color:rgb(79, 76, 76);
+  font-size: 15px;
+  margin: 0% 0% 0% 28%;
+
+}
+.spanDisign{
+  margin-left: 18%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-radius: 6px;
+  padding: 1% 0% 1% 2%;
+  width: 60%;
+  background-color: white;
+}
+.pEm{
+  text-indent: 1em;
+}
+.ulSpisok{
+  margin-top: 2%;
+  list-style-type: none;
+}
+
+.ulSpisok li{
+  
+  padding-left: 2rem;
+  background-image: url(./img/cactus-svgrepo-com.svg);
+  background-position: 0 0;
+  background-size: 1.6rem 1.4rem;
+  background-repeat: no-repeat;
+}
+
+  
+.menu-main {
+    list-style: none;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .menu-main li {
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 14px;  
+    margin: 15px;
+    height: 28px;
+    width: 250px;
+    background: rgb(253, 212, 27);
+    border-radius: 30px;
+  }
+  .menu-main li:after {
+    font-weight: bold;
+    color: #130f0f;  text-align: center;
+  
+  }
+  .menu-main li:last-child:after {
+    content: none;
+  }
+  .menu-main a {
+    text-decoration: none;
+    text-align: center;
+  
+    font-family: sans-serif;
+    padding: 0%;
+    position: relative;
+  
+    display: inline-block;
+    transition: color 0.2s;
+  
+  }
+  .menu-main a,
+  .menu-main a:visited {
+    color: #130f0f;
+  
+  }
+  .menu-main a.current,
+  .menu-main a:hover {
+    color: #0eb3ef;
+  }
+  .menu-main a:before,
+  .menu-main a:after {
+    background: #02afff;
+    transition: 0.8s;
+  }
+  
+  
+  
