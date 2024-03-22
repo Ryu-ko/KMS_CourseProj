@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Растровоеизображение1":
+{
+	"frame": {"x":0,"y":794,"w":328,"h":475},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":328,"h":475},
+	"sourceSize": {"w":328,"h":475}
+},
+"Фото":
+{
+	"frame": {"x":0,"y":0,"w":1840,"h":792},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1840,"h":792},
+	"sourceSize": {"w":1840,"h":792}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.9.42677",
+	"image": "Карта_Установки_HTML5_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

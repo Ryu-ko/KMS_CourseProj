@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"CachedBmp_10":
+{
+	"frame": {"x":407,"y":772,"w":386,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":101},
+	"sourceSize": {"w":386,"h":101}
+},
+"CachedBmp_11":
+{
+	"frame": {"x":1188,"y":829,"w":264,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":59},
+	"sourceSize": {"w":264,"h":59}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":1647,"y":831,"w":183,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":61},
+	"sourceSize": {"w":183,"h":61}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":1571,"y":772,"w":359,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":57},
+	"sourceSize": {"w":359,"h":57}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":1188,"y":772,"w":381,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":381,"h":55},
+	"sourceSize": {"w":381,"h":55}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":1868,"y":0,"w":126,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":57},
+	"sourceSize": {"w":126,"h":57}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":1868,"y":59,"w":122,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":55},
+	"sourceSize": {"w":122,"h":55}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":1454,"y":831,"w":191,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":63},
+	"sourceSize": {"w":191,"h":63}
+},
+"CachedBmp_8":
+{
+	"frame": {"x":795,"y":772,"w":391,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":391,"h":59},
+	"sourceSize": {"w":391,"h":59}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":0,"y":772,"w":405,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":405,"h":105},
+	"sourceSize": {"w":405,"h":105}
+},
+"Colt_Navy_Model_1851jfif":
+{
+	"frame": {"x":0,"y":0,"w":1866,"h":770},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1866,"h":770},
+	"sourceSize": {"w":1866,"h":770}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.9.42677",
+	"image": "Карта_установкиHTML5 Canvas_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}
